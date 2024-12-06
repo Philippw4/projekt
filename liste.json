@@ -1,0 +1,7 @@
+{
+    "items": [
+        { "name": "Apfel", "anzahl": 10 },
+        { "name": "Banane", "anzahl": 5 },
+        { "name": "Milch", "anzahl": 2 }
+    ]
+}
